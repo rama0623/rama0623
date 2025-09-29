@@ -5,7 +5,6 @@
 - Currently a Second year student at Newcastle University studying Computer Science
 - Very keen on making and building products that help make impacts on our daily lives
 - Interested in learning from the best of the best in the world when it comes to the profession as knowledge is key
-- 
 
 ## Programming Languages and other skills 
 
@@ -29,6 +28,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOTIiIGhlaWdodD0iMTQ0IiB2aWV3Qm94PSIwIDAgMTkyIDE0NCI+PHBhdGggZmlsbD0iI2QzMzMzMyIgZD0iTTAgMGMwLTIuMiAxLjgtNCA0LTRoMTg0YzIuMiAwIDQgMS44IDQgNHYxMzZjMCAyLjItMS44IDQtNCA0SDBjLTIuMiAwLTQtMS44LTQtNFYweiIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0xOTIgNDRsLTk2IDY4LTk2LTY4VjBoMTkydjQ0eiIvPjxwYXRoIGZpbGw9IiNmYjBjMDAiIGQ9Ik0wIDQ0bDk2IDY4IDk2LTY4djEwMUgweiIvPjwvc3ZnPg==)](mailto:ramabhaskara23@gmail.com)
 
 ## Projects
-
+Stay tuned there are several projects on the way ;)
 
 
