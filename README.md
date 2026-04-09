@@ -12,7 +12,6 @@
 <img align="left" alt="Python" width="40px" style="padding-right:10px" src="https://cdn-icons-png.flaticon.com/512/1387/1387537.png">
 <img align="left" alt="React" width="40px" style="padding-right:10px" src="https://cdn-icons-png.flaticon.com/512/3334/3334886.png">
 <img align="left" alt="Javascript" width="40px" style="padding-right:10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHnJDLOcdm_0b6N6kNj-1OvO9KhKYgqIy0w&s">
-<img align="left" alt="Dart" width="40px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png">
 <img align="left" alt="Java" width="40px" style="padding-right:10px" src="https://dart.dev/assets/img/logo/dart-logo-for-shares.png">
 <img align="left" alt="Java" width="40px" style="padding-right:10px" src="https://www.gstatic.com/devrel-devsite/prod/vfe17804c88ef6022fad1ddf837c323ee30f747a71d900f69699aa6fc2a2a7546/firebase/images/touchicon-180.png">
 <img align="left" alt="MySQL" width="40px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/1448px-Database-mysql.svg.png">
