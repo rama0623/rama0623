@@ -5,6 +5,7 @@
 - Currently a Second year student at Newcastle University studying Computer Science
 - Very keen on making and building products that help make impacts on our daily lives
 - Interested in learning from the best of the best in the world when it comes to the profession as knowledge is key
+- I also have an alternate github account gdr664 i accidentally made two different accounts for personal projects and school
 
 ## Programming Languages and other skills 
 
